@@ -1,4 +1,4 @@
-# Blockchain | Docker | Kubernetes
+# Blockchain | Data Science | Docker | Kubernetes
 
 [ÐApps and Data Science On the Blockchain](https://medium.com/@shanif/ðapps-and-data-on-the-blockchain-a0fd1bdeec12)<br>
 [How Blockchain Will Revolutionize Data Science (Part 1)](https://towardsdatascience.com/how-blockchain-will-revolutionize-data-science-part-1-39cea8dc6713)<br>
