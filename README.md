@@ -21,7 +21,7 @@
 [Test-Drive Continuous Integration Pipeline using Docker, Jenkins & GitHub under $0](http://collabnix.com/5-minutes-to-continuous-integration-pipeline-using-docker-jenkins-github-on-play-with-docker-platform/)<br>
 
 ## ELK | Docker | Kubernetes
-
+[ELK stack with •Packetbeat   •Metricbeat   •Filebeat   •Winlogbeat  •Heartbeat ]
 
 ## Prometheus Stack | Docker | Kubernetes
 
