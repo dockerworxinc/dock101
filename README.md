@@ -1,4 +1,5 @@
-# Blockchain | Data Science | Docker | Kubernetes - [Contributor - Anand]
+# Blockchain | Data Science | Docker | Kubernetes 
+[Contributor - Anand]
 
 [ÐApps and Data Science On the Blockchain](https://medium.com/@shanif/ðapps-and-data-on-the-blockchain-a0fd1bdeec12)<br>
 [How Blockchain Will Revolutionize Data Science (Part 1)](https://towardsdatascience.com/how-blockchain-will-revolutionize-data-science-part-1-39cea8dc6713)<br>
@@ -16,11 +17,13 @@
 [How containers can bring AI and blockchain to your apps](https://www.infoworld.com/article/3243144/containers/how-containers-can-bring-ai-and-blockchain-to-your-apps.html)<br>
 [Using Helm to Deploy Blockchain to Kubernetes](https://www.microsoft.com/developerblog/2018/02/09/using-helm-deploy-blockchain-kubernetes/)<br>
 
-## CI-CD | Docker | Kubernetes [ Contributor - Harshvardhan)
+## CI-CD | Docker | Kubernetes 
+[ Contributor - Harshvardhan)
 
 [Test-Drive Continuous Integration Pipeline using Docker, Jenkins & GitHub under $0](http://collabnix.com/5-minutes-to-continuous-integration-pipeline-using-docker-jenkins-github-on-play-with-docker-platform/)<br>
 
-## Elastic Stack | Machine Learning |Docker | Kubernetes - [Contributor - Kabir]
+## Elastic Stack | Machine Learning |Docker | Kubernetes 
+[Contributor - Kabir]
 
 [Introducing Machine Learning for the Elastic Stack](https://www.elastic.co/blog/introducing-machine-learning-for-the-elastic-stack)<br>
 [Machine Learning Lab 1 - Single Metric Jobs | Elastic](https://www.elastic.co/videos/machine-learning-tutorial-creating-a-single-metric-job)<br>
@@ -29,4 +32,6 @@
 [Machine Learning & Elastic Stack](https://www.slideshare.net/YannCluchey/machine-learning-and-the-elastic-stack)<br>
 
 ## Prometheus Stack | Docker | Kubernetes
+
+<TBD>
 
