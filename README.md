@@ -20,13 +20,13 @@
 
 [Test-Drive Continuous Integration Pipeline using Docker, Jenkins & GitHub under $0](http://collabnix.com/5-minutes-to-continuous-integration-pipeline-using-docker-jenkins-github-on-play-with-docker-platform/)<br>
 
-## ELK | Docker | Kubernetes
+## Elastic Stack | Machine Learning |Docker | Kubernetes
 
 [Introducing Machine Learning for the Elastic Stack](https://www.elastic.co/blog/introducing-machine-learning-for-the-elastic-stack)<br>
 [Machine Learning Lab 1 - Single Metric Jobs | Elastic](https://www.elastic.co/videos/machine-learning-tutorial-creating-a-single-metric-job)<br>
 [Machine Learning & Kibana - Getting Started Guide ](https://www.elastic.co/guide/en/kibana/current/xpack-ml.html)<br>
 [Home for Elasticsearch examples](https://github.com/elastic/examples)<br>
-[Machine Learning & Elastic Stack(https://www.slideshare.net/YannCluchey/machine-learning-and-the-elastic-stack)<br>
+[Machine Learning & Elastic Stack](https://www.slideshare.net/YannCluchey/machine-learning-and-the-elastic-stack)<br>
 
 ## Prometheus Stack | Docker | Kubernetes
 
